@@ -2,7 +2,7 @@ import requests
 import json
 import os
 
-def fetch_gen1_pokemon_from_api():
+def fetch_gen2_pokemon_from_api():
 
     # This is the function that is fetching data directly from the PokeAPI, please only call this function if the JSON file doesn't exist or is having problems.
     # Think of this function from here on out as a helper function to the main function that is essentially just grabbing the data.
@@ -12,7 +12,7 @@ def fetch_gen1_pokemon_from_api():
     base_url = "https://pokeapi.co/api/v2/pokemon"
     
     
-    for pokemon_id in range(1, 152):  # Grab the OG 151
+    for pokemon_id in range(152, 252):  # Grab Gen 2 Pokemon
         try:
 			# construct the url for call
             url = f"{base_url}/{pokemon_id}"
@@ -71,7 +71,7 @@ def fetch_gen1_pokemon_from_api():
     
     return pokemon_list
 
-def get_gen1_pokemon_data(json_filename="pokeJsons/gen1output.json"):
+def get_gen2_pokemon_data(json_filename="pokeJsons/gen2output.json"):
 
     # Different function for grabbing data locally first, if it doesn't exist yet, it will call the API instead
 
@@ -88,10 +88,10 @@ def get_gen1_pokemon_data(json_filename="pokeJsons/gen1output.json"):
         # There is an error reading the JSON for whatever reason, it will call the PokeAPI as originally planned instead.    
         except (json.JSONDecodeError, IOError) as e:
             print(f"Error reading JSON file: {e}. Falling back to API...")
-            pokemon_data = fetch_gen1_pokemon_from_api()
+            pokemon_data = fetch_gen2_pokemon_from_api()
             return pokemon_data
     else:
         # JSON file doesn't exist, fetch from API
         print("JSON file not found. Calling PokeAPI")
-        pokemon_data = fetch_gen1_pokemon_from_api()
+        pokemon_data = fetch_gen2_pokemon_from_api()
         return pokemon_data
