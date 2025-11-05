@@ -24,7 +24,39 @@
         },
         "height": 4,
         "weight": 41,
-        "base_experience": 62
+        "base_experience": 62,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 61,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 54,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 65,
+                "effort": 1
+            }
+        ]
     },
     {
         "id": 907,
@@ -51,7 +83,39 @@
         },
         "height": 9,
         "weight": 122,
-        "base_experience": 144
+        "base_experience": 144,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 61,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 63,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 63,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 83,
+                "effort": 2
+            }
+        ]
     },
     {
         "id": 908,
@@ -79,7 +143,39 @@
         },
         "height": 15,
         "weight": 312,
-        "base_experience": 265
+        "base_experience": 265,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 76,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 110,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 81,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 123,
+                "effort": 3
+            }
+        ]
     },
     {
         "id": 909,
@@ -106,7 +202,39 @@
         },
         "height": 4,
         "weight": 98,
-        "base_experience": 62
+        "base_experience": 62,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 67,
+                "effort": 1
+            },
+            {
+                "name": "attack",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 59,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 63,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 36,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 910,
@@ -133,7 +261,39 @@
         },
         "height": 10,
         "weight": 307,
-        "base_experience": 144
+        "base_experience": 144,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 81,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 55,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 78,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 90,
+                "effort": 2
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 58,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 49,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 911,
@@ -161,7 +321,39 @@
         },
         "height": 16,
         "weight": 3265,
-        "base_experience": 265
+        "base_experience": 265,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 104,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 75,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 100,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 110,
+                "effort": 3
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 75,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 66,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 912,
@@ -188,7 +380,39 @@
         },
         "height": 5,
         "weight": 61,
-        "base_experience": 62
+        "base_experience": 62,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 55,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 65,
+                "effort": 1
+            },
+            {
+                "name": "defense",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 50,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 50,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 913,
@@ -215,7 +439,39 @@
         },
         "height": 12,
         "weight": 215,
-        "base_experience": 144
+        "base_experience": 144,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 85,
+                "effort": 2
+            },
+            {
+                "name": "defense",
+                "base_stat": 65,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 65,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 65,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 914,
@@ -243,7 +499,39 @@
         },
         "height": 18,
         "weight": 619,
-        "base_experience": 265
+        "base_experience": 265,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 85,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 120,
+                "effort": 3
+            },
+            {
+                "name": "defense",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 85,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 75,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 85,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 915,
@@ -275,7 +563,39 @@
         },
         "height": 5,
         "weight": 102,
-        "base_experience": 51
+        "base_experience": 51,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 54,
+                "effort": 1
+            },
+            {
+                "name": "attack",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 35,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 35,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 916,
@@ -307,7 +627,39 @@
         },
         "height": 10,
         "weight": 1200,
-        "base_experience": 171
+        "base_experience": 171,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 110,
+                "effort": 2
+            },
+            {
+                "name": "attack",
+                "base_stat": 100,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 75,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 59,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 65,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 917,
@@ -334,7 +686,39 @@
         },
         "height": 3,
         "weight": 40,
-        "base_experience": 42
+        "base_experience": 42,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 35,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 41,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 45,
+                "effort": 1
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 29,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 20,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 918,
@@ -361,7 +745,39 @@
         },
         "height": 10,
         "weight": 165,
-        "base_experience": 141
+        "base_experience": 141,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 79,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 92,
+                "effort": 2
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 52,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 86,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 35,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 919,
@@ -388,7 +804,39 @@
         },
         "height": 2,
         "weight": 10,
-        "base_experience": 42
+        "base_experience": 42,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 33,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 46,
+                "effort": 1
+            },
+            {
+                "name": "defense",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 21,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 25,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 45,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 920,
@@ -416,7 +864,39 @@
         },
         "height": 10,
         "weight": 175,
-        "base_experience": 158
+        "base_experience": 158,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 71,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 102,
+                "effort": 2
+            },
+            {
+                "name": "defense",
+                "base_stat": 78,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 52,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 55,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 92,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 921,
@@ -448,7 +928,39 @@
         },
         "height": 3,
         "weight": 25,
-        "base_experience": 48
+        "base_experience": 48,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 50,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 20,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 25,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 60,
+                "effort": 1
+            }
+        ]
     },
     {
         "id": 922,
@@ -481,7 +993,39 @@
         },
         "height": 4,
         "weight": 65,
-        "base_experience": 123
+        "base_experience": 123,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 75,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 50,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 85,
+                "effort": 2
+            }
+        ]
     },
     {
         "id": 923,
@@ -514,7 +1058,39 @@
         },
         "height": 9,
         "weight": 410,
-        "base_experience": 245
+        "base_experience": 245,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 115,
+                "effort": 3
+            },
+            {
+                "name": "defense",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 105,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 924,
@@ -546,7 +1122,39 @@
         },
         "height": 3,
         "weight": 18,
-        "base_experience": 61
+        "base_experience": 61,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 50,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 50,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 75,
+                "effort": 1
+            }
+        ]
     },
     {
         "id": 925,
@@ -578,7 +1186,39 @@
         },
         "height": 3,
         "weight": 23,
-        "base_experience": 165
+        "base_experience": 165,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 74,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 75,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 65,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 75,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 111,
+                "effort": 2
+            }
+        ]
     },
     {
         "id": 926,
@@ -605,7 +1245,39 @@
         },
         "height": 3,
         "weight": 109,
-        "base_experience": 62
+        "base_experience": 62,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 37,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 55,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 30,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 55,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 65,
+                "effort": 1
+            }
+        ]
     },
     {
         "id": 927,
@@ -632,7 +1304,39 @@
         },
         "height": 5,
         "weight": 149,
-        "base_experience": 167
+        "base_experience": 167,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 57,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 115,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 50,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 95,
+                "effort": 2
+            }
+        ]
     },
     {
         "id": 928,
@@ -660,7 +1364,39 @@
         },
         "height": 3,
         "weight": 65,
-        "base_experience": 52
+        "base_experience": 52,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 41,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 35,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 58,
+                "effort": 1
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 51,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 30,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 929,
@@ -688,7 +1424,39 @@
         },
         "height": 6,
         "weight": 119,
-        "base_experience": 124
+        "base_experience": 124,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 52,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 53,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 78,
+                "effort": 2
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 78,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 33,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 930,
@@ -716,7 +1484,39 @@
         },
         "height": 14,
         "weight": 482,
-        "base_experience": 255
+        "base_experience": 255,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 78,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 69,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 90,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 125,
+                "effort": 3
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 109,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 39,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 931,
@@ -749,7 +1549,39 @@
         },
         "height": 6,
         "weight": 24,
-        "base_experience": 146
+        "base_experience": 146,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 82,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 96,
+                "effort": 1
+            },
+            {
+                "name": "defense",
+                "base_stat": 51,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 51,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 92,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 932,
@@ -781,7 +1613,39 @@
         },
         "height": 4,
         "weight": 160,
-        "base_experience": 56
+        "base_experience": 56,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 55,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 55,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 75,
+                "effort": 1
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 35,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 35,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 25,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 933,
@@ -813,7 +1677,39 @@
         },
         "height": 6,
         "weight": 1050,
-        "base_experience": 124
+        "base_experience": 124,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 100,
+                "effort": 2
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 35,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 65,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 35,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 934,
@@ -845,7 +1741,39 @@
         },
         "height": 23,
         "weight": 2400,
-        "base_experience": 250
+        "base_experience": 250,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 100,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 100,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 130,
+                "effort": 3
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 90,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 35,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 935,
@@ -872,7 +1800,39 @@
         },
         "height": 6,
         "weight": 105,
-        "base_experience": 51
+        "base_experience": 51,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 50,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 50,
+                "effort": 1
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 35,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 936,
@@ -900,7 +1860,39 @@
         },
         "height": 15,
         "weight": 850,
-        "base_experience": 263
+        "base_experience": 263,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 85,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 100,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 125,
+                "effort": 2
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 75,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 937,
@@ -928,7 +1920,39 @@
         },
         "height": 16,
         "weight": 620,
-        "base_experience": 263
+        "base_experience": 263,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 75,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 125,
+                "effort": 2
+            },
+            {
+                "name": "defense",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 100,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 85,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 938,
@@ -960,7 +1984,39 @@
         },
         "height": 3,
         "weight": 4,
-        "base_experience": 54
+        "base_experience": 54,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 61,
+                "effort": 1
+            },
+            {
+                "name": "attack",
+                "base_stat": 31,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 41,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 59,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 35,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 45,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 939,
@@ -992,7 +2048,39 @@
         },
         "height": 12,
         "weight": 1130,
-        "base_experience": 173
+        "base_experience": 173,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 109,
+                "effort": 2
+            },
+            {
+                "name": "attack",
+                "base_stat": 64,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 91,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 103,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 83,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 45,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 940,
@@ -1025,7 +2113,39 @@
         },
         "height": 4,
         "weight": 36,
-        "base_experience": 56
+        "base_experience": 56,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 35,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 55,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 70,
+                "effort": 1
+            }
+        ]
     },
     {
         "id": 941,
@@ -1058,7 +2178,39 @@
         },
         "height": 14,
         "weight": 386,
-        "base_experience": 172
+        "base_experience": 172,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 105,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 125,
+                "effort": 2
+            }
+        ]
     },
     {
         "id": 942,
@@ -1090,7 +2242,39 @@
         },
         "height": 5,
         "weight": 160,
-        "base_experience": 68
+        "base_experience": 68,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 78,
+                "effort": 1
+            },
+            {
+                "name": "defense",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 51,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 51,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 943,
@@ -1122,7 +2306,39 @@
         },
         "height": 11,
         "weight": 610,
-        "base_experience": 177
+        "base_experience": 177,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 120,
+                "effort": 2
+            },
+            {
+                "name": "defense",
+                "base_stat": 90,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 85,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 944,
@@ -1155,7 +2371,39 @@
         },
         "height": 2,
         "weight": 7,
-        "base_experience": 58
+        "base_experience": 58,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 65,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 35,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 35,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 75,
+                "effort": 1
+            }
+        ]
     },
     {
         "id": 945,
@@ -1188,7 +2436,39 @@
         },
         "height": 7,
         "weight": 272,
-        "base_experience": 170
+        "base_experience": 170,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 63,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 95,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 65,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 72,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 110,
+                "effort": 2
+            }
+        ]
     },
     {
         "id": 946,
@@ -1216,7 +2496,39 @@
         },
         "height": 6,
         "weight": 6,
-        "base_experience": 55
+        "base_experience": 55,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 65,
+                "effort": 1
+            },
+            {
+                "name": "defense",
+                "base_stat": 30,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 35,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 60,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 947,
@@ -1244,7 +2556,39 @@
         },
         "height": 12,
         "weight": 60,
-        "base_experience": 168
+        "base_experience": 168,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 55,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 115,
+                "effort": 2
+            },
+            {
+                "name": "defense",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 90,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 948,
@@ -1272,7 +2616,39 @@
         },
         "height": 9,
         "weight": 330,
-        "base_experience": 67
+        "base_experience": 67,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 35,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 50,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 100,
+                "effort": 1
+            },
+            {
+                "name": "speed",
+                "base_stat": 70,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 949,
@@ -1300,7 +2676,39 @@
         },
         "height": 19,
         "weight": 580,
-        "base_experience": 180
+        "base_experience": 180,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 65,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 120,
+                "effort": 2
+            },
+            {
+                "name": "speed",
+                "base_stat": 100,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 950,
@@ -1332,7 +2740,39 @@
         },
         "height": 13,
         "weight": 790,
-        "base_experience": 158
+        "base_experience": 158,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 100,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 115,
+                "effort": 2
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 35,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 55,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 75,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 951,
@@ -1364,7 +2804,39 @@
         },
         "height": 3,
         "weight": 30,
-        "base_experience": 61
+        "base_experience": 61,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 50,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 62,
+                "effort": 1
+            },
+            {
+                "name": "defense",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 62,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 50,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 952,
@@ -1397,7 +2869,39 @@
         },
         "height": 9,
         "weight": 150,
-        "base_experience": 170
+        "base_experience": 170,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 65,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 108,
+                "effort": 2
+            },
+            {
+                "name": "defense",
+                "base_stat": 65,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 108,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 65,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 75,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 953,
@@ -1424,7 +2928,39 @@
         },
         "height": 2,
         "weight": 10,
-        "base_experience": 54
+        "base_experience": 54,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 41,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 50,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 60,
+                "effort": 1
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 31,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 58,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 30,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 954,
@@ -1452,7 +2988,39 @@
         },
         "height": 3,
         "weight": 35,
-        "base_experience": 165
+        "base_experience": 165,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 75,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 50,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 85,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 115,
+                "effort": 2
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 100,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 45,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 955,
@@ -1484,7 +3052,39 @@
         },
         "height": 2,
         "weight": 15,
-        "base_experience": 51
+        "base_experience": 51,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 30,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 35,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 30,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 55,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 30,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 75,
+                "effort": 1
+            }
+        ]
     },
     {
         "id": 956,
@@ -1516,7 +3116,39 @@
         },
         "height": 19,
         "weight": 900,
-        "base_experience": 168
+        "base_experience": 168,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 95,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 101,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 105,
+                "effort": 2
+            }
+        ]
     },
     {
         "id": 957,
@@ -1549,7 +3181,39 @@
         },
         "height": 4,
         "weight": 89,
-        "base_experience": 59
+        "base_experience": 59,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 50,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 35,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 64,
+                "effort": 1
+            },
+            {
+                "name": "speed",
+                "base_stat": 58,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 958,
@@ -1582,7 +3246,39 @@
         },
         "height": 7,
         "weight": 591,
-        "base_experience": 133
+        "base_experience": 133,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 65,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 55,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 55,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 82,
+                "effort": 2
+            },
+            {
+                "name": "speed",
+                "base_stat": 78,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 959,
@@ -1615,7 +3311,39 @@
         },
         "height": 7,
         "weight": 1128,
-        "base_experience": 253
+        "base_experience": 253,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 85,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 75,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 77,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 105,
+                "effort": 3
+            },
+            {
+                "name": "speed",
+                "base_stat": 94,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 960,
@@ -1647,7 +3375,39 @@
         },
         "height": 12,
         "weight": 18,
-        "base_experience": 49
+        "base_experience": 49,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 10,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 55,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 25,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 35,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 25,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 95,
+                "effort": 1
+            }
+        ]
     },
     {
         "id": 961,
@@ -1679,7 +3439,39 @@
         },
         "height": 12,
         "weight": 54,
-        "base_experience": 149
+        "base_experience": 149,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 35,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 100,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 50,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 50,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 120,
+                "effort": 2
+            }
+        ]
     },
     {
         "id": 962,
@@ -1712,7 +3504,39 @@
         },
         "height": 15,
         "weight": 429,
-        "base_experience": 243
+        "base_experience": 243,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 103,
+                "effort": 2
+            },
+            {
+                "name": "defense",
+                "base_stat": 85,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 85,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 82,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 963,
@@ -1739,7 +3563,39 @@
         },
         "height": 13,
         "weight": 602,
-        "base_experience": 63
+        "base_experience": 63,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 75,
+                "effort": 1
+            }
+        ]
     },
     {
         "id": 964,
@@ -1766,7 +3622,39 @@
         },
         "height": 13,
         "weight": 602,
-        "base_experience": 160
+        "base_experience": 160,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 100,
+                "effort": 2
+            },
+            {
+                "name": "attack",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 72,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 53,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 62,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 100,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 965,
@@ -1794,7 +3682,39 @@
         },
         "height": 10,
         "weight": 350,
-        "base_experience": 60
+        "base_experience": 60,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 70,
+                "effort": 1
+            },
+            {
+                "name": "defense",
+                "base_stat": 63,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 30,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 47,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 966,
@@ -1822,7 +3742,39 @@
         },
         "height": 18,
         "weight": 1200,
-        "base_experience": 175
+        "base_experience": 175,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 119,
+                "effort": 2
+            },
+            {
+                "name": "defense",
+                "base_stat": 90,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 54,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 67,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 90,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 967,
@@ -1850,7 +3802,39 @@
         },
         "height": 16,
         "weight": 630,
-        "base_experience": 175
+        "base_experience": 175,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 95,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 65,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 85,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 65,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 121,
+                "effort": 2
+            }
+        ]
     },
     {
         "id": 968,
@@ -1877,7 +3861,39 @@
         },
         "height": 25,
         "weight": 3100,
-        "base_experience": 240
+        "base_experience": 240,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 85,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 145,
+                "effort": 2
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 55,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 65,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 969,
@@ -1905,7 +3921,39 @@
         },
         "height": 7,
         "weight": 80,
-        "base_experience": 70
+        "base_experience": 70,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 48,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 35,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 42,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 105,
+                "effort": 1
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 60,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 970,
@@ -1933,7 +3981,39 @@
         },
         "height": 15,
         "weight": 450,
-        "base_experience": 184
+        "base_experience": 184,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 83,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 55,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 90,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 130,
+                "effort": 2
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 81,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 86,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 971,
@@ -1960,7 +4040,39 @@
         },
         "height": 6,
         "weight": 350,
-        "base_experience": 58
+        "base_experience": 58,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 50,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 61,
+                "effort": 1
+            },
+            {
+                "name": "defense",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 30,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 55,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 34,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 972,
@@ -1987,7 +4099,39 @@
         },
         "height": 20,
         "weight": 150,
-        "base_experience": 171
+        "base_experience": 171,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 72,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 101,
+                "effort": 2
+            },
+            {
+                "name": "defense",
+                "base_stat": 100,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 50,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 97,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 68,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 973,
@@ -2020,7 +4164,39 @@
         },
         "height": 16,
         "weight": 370,
-        "base_experience": 175
+        "base_experience": 175,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 82,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 115,
+                "effort": 2
+            },
+            {
+                "name": "defense",
+                "base_stat": 74,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 75,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 64,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 90,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 974,
@@ -2052,7 +4228,39 @@
         },
         "height": 12,
         "weight": 450,
-        "base_experience": 67
+        "base_experience": 67,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 108,
+                "effort": 1
+            },
+            {
+                "name": "attack",
+                "base_stat": 68,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 30,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 43,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 975,
@@ -2084,7 +4292,39 @@
         },
         "height": 45,
         "weight": 7000,
-        "base_experience": 182
+        "base_experience": 182,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 170,
+                "effort": 2
+            },
+            {
+                "name": "attack",
+                "base_stat": 113,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 65,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 55,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 73,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 976,
@@ -2112,7 +4352,39 @@
         },
         "height": 25,
         "weight": 900,
-        "base_experience": 167
+        "base_experience": 167,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 90,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 102,
+                "effort": 2
+            },
+            {
+                "name": "defense",
+                "base_stat": 73,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 78,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 65,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 70,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 977,
@@ -2144,7 +4416,39 @@
         },
         "height": 120,
         "weight": 2200,
-        "base_experience": 265
+        "base_experience": 265,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 150,
+                "effort": 3
+            },
+            {
+                "name": "attack",
+                "base_stat": 100,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 115,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 65,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 65,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 35,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 978,
@@ -2172,7 +4476,39 @@
         },
         "height": 3,
         "weight": 80,
-        "base_experience": 166
+        "base_experience": 166,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 68,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 50,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 120,
+                "effort": 2
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 95,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 82,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 979,
@@ -2205,7 +4541,39 @@
         },
         "height": 12,
         "weight": 560,
-        "base_experience": 268
+        "base_experience": 268,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 110,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 115,
+                "effort": 3
+            },
+            {
+                "name": "defense",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 50,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 90,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 90,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 980,
@@ -2238,7 +4606,39 @@
         },
         "height": 18,
         "weight": 2230,
-        "base_experience": 151
+        "base_experience": 151,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 130,
+                "effort": 2
+            },
+            {
+                "name": "attack",
+                "base_stat": 75,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 100,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 20,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 981,
@@ -2271,7 +4671,39 @@
         },
         "height": 32,
         "weight": 1600,
-        "base_experience": 260
+        "base_experience": 260,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 120,
+                "effort": 3
+            },
+            {
+                "name": "attack",
+                "base_stat": 90,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 110,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 60,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 982,
@@ -2303,7 +4735,39 @@
         },
         "height": 36,
         "weight": 392,
-        "base_experience": 182
+        "base_experience": 182,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 125,
+                "effort": 2
+            },
+            {
+                "name": "attack",
+                "base_stat": 100,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 85,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 75,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 55,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 983,
@@ -2336,7 +4800,39 @@
         },
         "height": 20,
         "weight": 1200,
-        "base_experience": 275
+        "base_experience": 275,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 100,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 135,
+                "effort": 3
+            },
+            {
+                "name": "defense",
+                "base_stat": 120,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 85,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 50,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 984,
@@ -2359,7 +4855,39 @@
         },
         "height": 22,
         "weight": 3200,
-        "base_experience": 285
+        "base_experience": 285,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 115,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 131,
+                "effort": 3
+            },
+            {
+                "name": "defense",
+                "base_stat": 131,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 53,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 53,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 87,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 985,
@@ -2382,7 +4910,39 @@
         },
         "height": 12,
         "weight": 80,
-        "base_experience": 285
+        "base_experience": 285,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 115,
+                "effort": 3
+            },
+            {
+                "name": "attack",
+                "base_stat": 65,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 99,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 65,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 115,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 111,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 986,
@@ -2405,7 +4965,39 @@
         },
         "height": 12,
         "weight": 210,
-        "base_experience": 285
+        "base_experience": 285,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 111,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 127,
+                "effort": 3
+            },
+            {
+                "name": "defense",
+                "base_stat": 99,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 79,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 99,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 55,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 987,
@@ -2428,7 +5020,39 @@
         },
         "height": 14,
         "weight": 40,
-        "base_experience": 285
+        "base_experience": 285,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 55,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 55,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 55,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 135,
+                "effort": 1
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 135,
+                "effort": 1
+            },
+            {
+                "name": "speed",
+                "base_stat": 135,
+                "effort": 1
+            }
+        ]
     },
     {
         "id": 988,
@@ -2451,7 +5075,39 @@
         },
         "height": 32,
         "weight": 920,
-        "base_experience": 285
+        "base_experience": 285,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 85,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 135,
+                "effort": 3
+            },
+            {
+                "name": "defense",
+                "base_stat": 79,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 85,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 105,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 81,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 989,
@@ -2474,7 +5130,39 @@
         },
         "height": 23,
         "weight": 600,
-        "base_experience": 285
+        "base_experience": 285,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 85,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 81,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 97,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 121,
+                "effort": 3
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 85,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 101,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 990,
@@ -2497,7 +5185,39 @@
         },
         "height": 9,
         "weight": 2400,
-        "base_experience": 285
+        "base_experience": 285,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 90,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 112,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 120,
+                "effort": 3
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 72,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 106,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 991,
@@ -2520,7 +5240,39 @@
         },
         "height": 6,
         "weight": 110,
-        "base_experience": 285
+        "base_experience": 285,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 56,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 114,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 124,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 136,
+                "effort": 3
+            }
+        ]
     },
     {
         "id": 992,
@@ -2543,7 +5295,39 @@
         },
         "height": 18,
         "weight": 3807,
-        "base_experience": 285
+        "base_experience": 285,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 154,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 140,
+                "effort": 3
+            },
+            {
+                "name": "defense",
+                "base_stat": 108,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 50,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 68,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 50,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 993,
@@ -2566,7 +5350,39 @@
         },
         "height": 13,
         "weight": 1110,
-        "base_experience": 285
+        "base_experience": 285,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 94,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 86,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 122,
+                "effort": 3
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 108,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 994,
@@ -2589,7 +5405,39 @@
         },
         "height": 12,
         "weight": 360,
-        "base_experience": 285
+        "base_experience": 285,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 140,
+                "effort": 3
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 110,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 110,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 995,
@@ -2612,7 +5460,39 @@
         },
         "height": 16,
         "weight": 3030,
-        "base_experience": 285
+        "base_experience": 285,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 100,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 134,
+                "effort": 3
+            },
+            {
+                "name": "defense",
+                "base_stat": 110,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 84,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 72,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 996,
@@ -2640,7 +5520,39 @@
         },
         "height": 5,
         "weight": 170,
-        "base_experience": 64
+        "base_experience": 64,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 65,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 75,
+                "effort": 1
+            },
+            {
+                "name": "defense",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 35,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 55,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 997,
@@ -2668,7 +5580,39 @@
         },
         "height": 8,
         "weight": 300,
-        "base_experience": 148
+        "base_experience": 148,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 90,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 95,
+                "effort": 2
+            },
+            {
+                "name": "defense",
+                "base_stat": 66,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 65,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 62,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 998,
@@ -2696,7 +5640,39 @@
         },
         "height": 21,
         "weight": 2100,
-        "base_experience": 300
+        "base_experience": 300,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 115,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 145,
+                "effort": 3
+            },
+            {
+                "name": "defense",
+                "base_stat": 92,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 75,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 86,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 87,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 999,
@@ -2718,7 +5694,39 @@
         },
         "height": 3,
         "weight": 50,
-        "base_experience": 60
+        "base_experience": 60,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 30,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 75,
+                "effort": 1
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 10,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 1000,
@@ -2741,7 +5749,39 @@
         },
         "height": 12,
         "weight": 300,
-        "base_experience": 275
+        "base_experience": 275,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 87,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 95,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 133,
+                "effort": 2
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 91,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 84,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 1001,
@@ -2764,7 +5804,39 @@
         },
         "height": 15,
         "weight": 742,
-        "base_experience": 285
+        "base_experience": 285,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 85,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 85,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 100,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 95,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 135,
+                "effort": 3
+            },
+            {
+                "name": "speed",
+                "base_stat": 70,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 1002,
@@ -2787,7 +5859,39 @@
         },
         "height": 19,
         "weight": 1522,
-        "base_experience": 285
+        "base_experience": 285,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 120,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 90,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 65,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 135,
+                "effort": 3
+            }
+        ]
     },
     {
         "id": 1003,
@@ -2810,7 +5914,39 @@
         },
         "height": 27,
         "weight": 6997,
-        "base_experience": 285
+        "base_experience": 285,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 155,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 110,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 125,
+                "effort": 3
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 55,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 45,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 1004,
@@ -2833,7 +5969,39 @@
         },
         "height": 4,
         "weight": 49,
-        "base_experience": 285
+        "base_experience": 285,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 55,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 135,
+                "effort": 3
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 120,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 100,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 1005,
@@ -2856,7 +6024,39 @@
         },
         "height": 20,
         "weight": 3800,
-        "base_experience": 295
+        "base_experience": 295,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 105,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 139,
+                "effort": 3
+            },
+            {
+                "name": "defense",
+                "base_stat": 71,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 55,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 101,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 119,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 1006,
@@ -2879,7 +6079,39 @@
         },
         "height": 14,
         "weight": 350,
-        "base_experience": 295
+        "base_experience": 295,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 74,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 130,
+                "effort": 3
+            },
+            {
+                "name": "defense",
+                "base_stat": 90,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 120,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 116,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 1007,
@@ -2902,7 +6134,39 @@
         },
         "height": 25,
         "weight": 3030,
-        "base_experience": 335
+        "base_experience": 335,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 100,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 135,
+                "effort": 3
+            },
+            {
+                "name": "defense",
+                "base_stat": 115,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 85,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 100,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 135,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 1008,
@@ -2925,7 +6189,39 @@
         },
         "height": 35,
         "weight": 2400,
-        "base_experience": 335
+        "base_experience": 335,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 100,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 85,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 100,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 135,
+                "effort": 3
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 115,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 135,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 1009,
@@ -2948,7 +6244,39 @@
         },
         "height": 35,
         "weight": 2800,
-        "base_experience": 295
+        "base_experience": 295,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 99,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 83,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 91,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 125,
+                "effort": 3
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 83,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 109,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 1010,
@@ -2971,7 +6299,39 @@
         },
         "height": 15,
         "weight": 1250,
-        "base_experience": 295
+        "base_experience": 295,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 90,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 130,
+                "effort": 3
+            },
+            {
+                "name": "defense",
+                "base_stat": 88,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 108,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 104,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 1011,
@@ -3004,7 +6364,39 @@
         },
         "height": 4,
         "weight": 97,
-        "base_experience": 170
+        "base_experience": 170,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 110,
+                "effort": 2
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 95,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 40,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 1012,
@@ -3032,7 +6424,39 @@
         },
         "height": 1,
         "weight": 11,
-        "base_experience": 62
+        "base_experience": 62,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 40,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 45,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 74,
+                "effort": 1
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 54,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 50,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 1013,
@@ -3060,7 +6484,39 @@
         },
         "height": 2,
         "weight": 22,
-        "base_experience": 178
+        "base_experience": 178,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 71,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 106,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 121,
+                "effort": 2
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 70,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 1014,
@@ -3088,7 +6544,39 @@
         },
         "height": 18,
         "weight": 922,
-        "base_experience": 278
+        "base_experience": 278,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 88,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 128,
+                "effort": 3
+            },
+            {
+                "name": "defense",
+                "base_stat": 115,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 58,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 86,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 80,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 1015,
@@ -3116,7 +6604,39 @@
         },
         "height": 10,
         "weight": 122,
-        "base_experience": 278
+        "base_experience": 278,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 88,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 75,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 66,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 130,
+                "effort": 3
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 90,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 106,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 1016,
@@ -3144,7 +6664,39 @@
         },
         "height": 14,
         "weight": 301,
-        "base_experience": 278
+        "base_experience": 278,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 88,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 91,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 82,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 70,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 125,
+                "effort": 3
+            },
+            {
+                "name": "speed",
+                "base_stat": 99,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 1017,
@@ -3166,7 +6718,39 @@
         },
         "height": 12,
         "weight": 398,
-        "base_experience": 275
+        "base_experience": 275,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 120,
+                "effort": 3
+            },
+            {
+                "name": "defense",
+                "base_stat": 84,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 60,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 96,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 110,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 1018,
@@ -3199,7 +6783,39 @@
         },
         "height": 20,
         "weight": 600,
-        "base_experience": 300
+        "base_experience": 300,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 90,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 105,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 130,
+                "effort": 3
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 125,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 65,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 85,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 1019,
@@ -3232,7 +6848,39 @@
         },
         "height": 18,
         "weight": 930,
-        "base_experience": 270
+        "base_experience": 270,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 106,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 110,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 120,
+                "effort": 3
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 44,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 1020,
@@ -3255,7 +6903,39 @@
         },
         "height": 35,
         "weight": 5900,
-        "base_experience": 295
+        "base_experience": 295,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 105,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 115,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 121,
+                "effort": 3
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 65,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 93,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 91,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 1021,
@@ -3278,7 +6958,39 @@
         },
         "height": 52,
         "weight": 4800,
-        "base_experience": 295
+        "base_experience": 295,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 125,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 73,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 91,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 137,
+                "effort": 3
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 89,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 75,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 1022,
@@ -3301,7 +7013,39 @@
         },
         "height": 15,
         "weight": 1625,
-        "base_experience": 295
+        "base_experience": 295,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 90,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 120,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 80,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 68,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 108,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 124,
+                "effort": 3
+            }
+        ]
     },
     {
         "id": 1023,
@@ -3324,7 +7068,39 @@
         },
         "height": 16,
         "weight": 1560,
-        "base_experience": 295
+        "base_experience": 295,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 90,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 72,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 100,
+                "effort": 0
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 122,
+                "effort": 3
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 108,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 98,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 1024,
@@ -3346,7 +7122,39 @@
         },
         "height": 2,
         "weight": 65,
-        "base_experience": 90
+        "base_experience": 90,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 90,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 65,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 85,
+                "effort": 1
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 65,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 85,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 60,
+                "effort": 0
+            }
+        ]
     },
     {
         "id": 1025,
@@ -3369,6 +7177,38 @@
         },
         "height": 3,
         "weight": 3,
-        "base_experience": 300
+        "base_experience": 300,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 88,
+                "effort": 0
+            },
+            {
+                "name": "attack",
+                "base_stat": 88,
+                "effort": 0
+            },
+            {
+                "name": "defense",
+                "base_stat": 160,
+                "effort": 3
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 88,
+                "effort": 0
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 88,
+                "effort": 0
+            },
+            {
+                "name": "speed",
+                "base_stat": 88,
+                "effort": 0
+            }
+        ]
     }
 ]

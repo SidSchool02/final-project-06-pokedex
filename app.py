@@ -52,7 +52,7 @@ def gen5():
 	# Fetch all Gen 5 Pokemon data
 	pokemon_data = get_gen5_pokemon_data()
 	# Render gen5 template with the pokemon data being passed into it from Flask, please read how Flask is handling this
-	return render_template("generation.html", pokemon_list=pokemon_data, title="Generation 5 Pokémon", subtitle="All 105 Gen 5 Pokémon")
+	return render_template("generation.html", pokemon_list=pokemon_data, title="Generation 5 Pokémon", subtitle="All 156 Gen 5 Pokémon")
 
 @app.get("/gen6")
 def gen6():
@@ -66,21 +66,21 @@ def gen7():
 	# Fetch all Gen 7 Pokemon data
 	pokemon_data = get_gen7_pokemon_data()
 	# Render gen7 template with the pokemon data being passed into it from Flask, please read how Flask is handling this
-	return render_template("generation.html", pokemon_list=pokemon_data, title="Generation 7 Pokémon", subtitle="All 87 Gen 7 Pokémon")
+	return render_template("generation.html", pokemon_list=pokemon_data, title="Generation 7 Pokémon", subtitle="All 88 Gen 7 Pokémon")
 
 @app.get("/gen8")
 def gen8():
 	# Fetch all Gen 8 Pokemon data
 	pokemon_data = get_gen8_pokemon_data()
 	# Render gen8 template with the pokemon data being passed into it from Flask, please read how Flask is handling this
-	return render_template("generation.html", pokemon_list=pokemon_data, title="Generation 8 Pokémon", subtitle="All 189 Gen 8 Pokémon")
+	return render_template("generation.html", pokemon_list=pokemon_data, title="Generation 8 Pokémon", subtitle="All 96 Gen 8 Pokémon")
 
 @app.get("/gen9")
 def gen9():
 	# Fetch all Gen 9 Pokemon data
 	pokemon_data = get_gen9_pokemon_data()
 	# Render gen9 template with the pokemon data being passed into it from Flask, please read how Flask is handling this
-	return render_template("generation.html", pokemon_list=pokemon_data, title="Generation 9 Pokémon", subtitle="All 100 Gen 9 Pokémon")
+	return render_template("generation.html", pokemon_list=pokemon_data, title="Generation 9 Pokémon", subtitle="All 120 Gen 9 Pokémon")
 
 # This is the API route! It will return a JSON response from our call. 502 is bad gateway. set the timeout to 15 seconds but can change as needed
 @app.get("/api/pokemon/<string:name>")

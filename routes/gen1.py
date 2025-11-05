@@ -35,6 +35,17 @@ def fetch_gen1_pokemon_from_api():
                 # Extract types
                 types = [type_info['type']['name'] for type_info in data.get('types', [])]
                 
+                stats = []
+                
+                for stat in data.get('stats', []):
+                    stats.append({
+                        'name': stat['stat']['name'],
+                        'base_stat': stat['base_stat'],
+                        'effort': stat['effort']
+                    })
+                
+                
+                
                 # Get image URLs
                 sprites = data.get('sprites', {})
                 images = {
@@ -52,7 +63,8 @@ def fetch_gen1_pokemon_from_api():
                     'images': images,
                     'height': data['height'],
                     'weight': data['weight'],
-                    'base_experience': data['base_experience']
+                    'base_experience': data['base_experience'],
+                    'stats': stats
                 }
                 
                 # adding struct to the array of pokemon

@@ -14,9 +14,9 @@ def fetch_gen7_pokemon_from_api():
     
     for pokemon_id in range(722, 810):  # Grab Gen 7 Pokemon
         try:
-            # construct the url for call
+			# construct the url for call
             url = f"{base_url}/{pokemon_id}"
-            # make the call, adding a timeout condition
+			# make the call, adding a timeout condition
             response = requests.get(url, timeout=15)
             
             # successfull call
@@ -35,6 +35,17 @@ def fetch_gen7_pokemon_from_api():
                 # Extract types
                 types = [type_info['type']['name'] for type_info in data.get('types', [])]
                 
+                stats = []
+                
+                for stat in data.get('stats', []):
+                    stats.append({
+                        'name': stat['stat']['name'],
+                        'base_stat': stat['base_stat'],
+                        'effort': stat['effort']
+                    })
+                
+                
+                
                 # Get image URLs
                 sprites = data.get('sprites', {})
                 images = {
@@ -52,17 +63,18 @@ def fetch_gen7_pokemon_from_api():
                     'images': images,
                     'height': data['height'],
                     'weight': data['weight'],
-                    'base_experience': data['base_experience']
+                    'base_experience': data['base_experience'],
+                    'stats': stats
                 }
                 
                 # adding struct to the array of pokemon
                 pokemon_list.append(pokemon_data)
-                
-                # print successful capture
+				
+				# print successful capture
                 print(f"Fetched {pokemon_data['name']} (ID: {pokemon_id})")
                 
             else:
-                # debug failure
+				# debug failure
                 print(f"Failed to fetch Pokemon ID {pokemon_id}")
                 
         except requests.RequestException as e:
