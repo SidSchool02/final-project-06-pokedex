@@ -1,39 +1,69 @@
 <!doctype html>
 <html lang="en">
 <head>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<title>Mini Pokédex</title>
-	<!-- This is the stylesheet for the page that is being triggered by the Flask app -->
-	<link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Mini Pokédex</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}" />
 </head>
 <body>
-	<main class="container">
-		<nav class="nav-links">
-			<a href="/gen1" class="nav-link">View Generation 1 Pokémon</a>
-			<a href="/gen2" class="nav-link">View Generation 2 Pokémon</a>
-			<a href="/gen3" class="nav-link">View Generation 3 Pokémon</a>
-			<a href="/gen4" class="nav-link">View Generation 4 Pokémon</a>
-			<a href="/gen5" class="nav-link">View Generation 5 Pokémon</a>
-			<a href="/gen6" class="nav-link">View Generation 6 Pokémon</a>
-			<a href="/gen7" class="nav-link">View Generation 7 Pokémon</a>
-			<a href="/gen8" class="nav-link">View Generation 8 Pokémon</a>
-			<a href="/gen9" class="nav-link">View Generation 9 Pokémon</a>
-		</nav>
-		
-		<h1>Pokémon Lookup</h1>
-		<form id="search-form">
-			<input id="name-input" type="text" placeholder="Enter Pokémon name (e.g., pikachu)"/>
-			<button type="submit">Search</button>
-		</form>
+    <main class="container">
+        <nav class="nav-links">
+            <a href="/gen1" class="nav-link">View Generation 1 Pokémon</a>
+            <a href="/gen2" class="nav-link">View Generation 2 Pokémon</a>
+            <a href="/gen3" class="nav-link">View Generation 3 Pokémon</a>
+            <a href="/gen4" class="nav-link">View Generation 4 Pokémon</a>
+            <a href="/gen5" class="nav-link">View Generation 5 Pokémon</a>
+            <a href="/gen6" class="nav-link">View Generation 6 Pokémon</a>
+            <a href="/gen7" class="nav-link">View Generation 7 Pokémon</a>
+            <a href="/gen8" class="nav-link">View Generation 8 Pokémon</a>
+            <a href="/gen9" class="nav-link">View Generation 9 Pokémon</a>
+        </nav>
+        
+        <h1>Pokémon Lookup</h1>
+        <form id="search-form">
+            <input id="name-input" type="text" placeholder="Enter Pokémon name (e.g., pikachu)"/>
+            <button type="submit">Search</button>
+        </form>
 
-		<!-- Hidden section for the result of the search, or error, both hidden by default -->
-		<section id="result" class="hidden"></section>
-		<p id="error" class="error hidden"></p>
-	</main>
+        <section id="result" class="hidden pokemon-list"></section>
+        <p id="error" class="error hidden"></p>
 
-	<script src="{{ url_for('static', filename='main.js') }}"></script>
+        <!-- Card Template -->
+        <template id="card-template">
+            <div class="pokemon-card" data-main-type="">
+                <!-- Card Header -->
+                <div class="card-header">
+                    <h3 class="pokemon-name"></h3>
+                    <div class="pokemon-hp"><span>HP</span></div>
+                </div>
+
+                <!-- Card Image -->
+                <div class="card-image-container">
+                    <div class="pokemon-id-badge"></div>
+                    <img src="" alt="" loading="lazy">
+                </div>
+
+                <!-- Type Section -->
+                <div class="type-section">
+                    <div class="type-label">Type</div>
+                    <div class="pokemon-types"></div>
+                </div>
+
+                <!-- Abilities Section -->
+                <div class="abilities-section">
+                    <h4>Abilities</h4>
+                    <div class="ability-list"></div>
+                </div>
+
+                <!-- Card Footer -->
+                <div class="card-footer">
+                    <span>© Pokémon</span>
+                </div>
+            </div>
+        </template>
+    </main>
+
+    <script src="{{ url_for('static', filename='main.js') }}"></script>
 </body>
 </html>
-
-
