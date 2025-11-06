@@ -16,6 +16,17 @@ me to Machine learning, AR, cloud computing and game data to create an immersive
 experience. I once created a small project called Pokedex using Python, and in this project, I will
 be starting from where I left off but this time, with all these features.
 
+### Rquirements ###
+
+# Please make sure you have Python installed
+# pip install requests
+# pip install flask
+# Once you have installed flask and requests, open up a terminal window in your IDE, make sure you in the root directory of the program and then type
+# python app.py
+
+# Once you start the server by running python app.py, you can go to your localhost:5000 to view the site, or your loopback address, and or click the link provided in the terminal output
+
+
 # TOOLS 
 
 flask
