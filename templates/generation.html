@@ -129,11 +129,14 @@
 				fairy: '#EE99AC'
 			};
 
+
+			// Apply border colors and tilt effect to all cards
 			document.querySelectorAll('.pokemon-card').forEach(card => {
 				const mainType = card.getAttribute('data-main-type');
 				card.style.borderColor = typeBorderColors[mainType] || '#ffd700';
 			});
 		});
 	</script>
+	<script src="{{ url_for('static', filename='card-tilt.js') }}"></script>
 </body>
 </html>

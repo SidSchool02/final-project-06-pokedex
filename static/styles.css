@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
 
 body {
 	margin: 0;
@@ -114,28 +114,24 @@ button:hover {
 
 /* --- Pokémon Card --- */
 .pokemon-card {
-    width: 250px; /* fixed width for better TCG proportions */
-    height: 360px; /* slightly taller */
+    width: 250px;
+    height: 360px;
     background: linear-gradient(145deg, #f8f9fa 0%, #e9ecef 100%);
     border-radius: 15px;
     border: 6px solid #ffd700;
     box-shadow: 0 10px 30px rgba(0,0,0,0.3), 0 0 0 2px #000, inset 0 2px 0 rgba(255,255,255,0.5);
     padding: 15px;
     position: relative;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
     color: #000;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     display: flex;
     flex-direction: column;
     cursor: pointer;
-    margin: 0 auto; /* center the cards */
-}
-
-.pokemon-card:hover {
-    transform: translateY(-10px) scale(1.02);
-    box-shadow: 0 15px 40px rgba(0,0,0,0.4),
-                0 0 0 2px #000,
-                inset 0 2px 0 rgba(255,255,255,0.5);
+    margin: 0 auto;
+    perspective: 1000px;
+    transform-style: preserve-3d; 
+    will-change: transform, box-shadow;
+    font-family: 'Poppins', sans-serif; 
+    font-weight: bold;
 }
 
 /* Header */
@@ -293,4 +289,76 @@ button:hover {
     color: #7f8c8d;
     margin-top: auto;
     padding-top: 8px;
+}
+
+/* Hover Color Based on Type */
+.pokemon-card[data-main-type="normal"]:hover {
+    box-shadow: 0 0 15px 5px rgba(168, 168, 120, 0.6);
+}
+.pokemon-card[data-main-type="fire"]:hover {
+    box-shadow: 0 0 15px 5px rgba(240, 128, 48, 0.6);
+}
+
+.pokemon-card[data-main-type="water"]:hover {
+    box-shadow: 0 0 15px 5px rgba(104, 144, 240, 0.6);
+}
+
+.pokemon-card[data-main-type="grass"]:hover {
+    box-shadow: 0 0 15px 5px rgba(120, 200, 80, 0.6);
+}
+
+.pokemon-card[data-main-type="electric"]:hover {
+    box-shadow: 0 0 15px 5px rgba(248, 208, 48, 0.6);
+}
+
+.pokemon-card[data-main-type="ice"]:hover {
+    box-shadow: 0 0 15px 5px rgba(152, 216, 216, 0.6);
+}
+
+.pokemon-card[data-main-type="fighting"]:hover {
+    box-shadow: 0 0 15px 5px rgba(192, 48, 40, 0.6);
+}
+
+.pokemon-card[data-main-type="poison"]:hover {
+    box-shadow: 0 0 15px 5px rgba(160, 64, 160, 0.6);
+}
+
+.pokemon-card[data-main-type="ground"]:hover {
+    box-shadow: 0 0 15px 5px rgba(224, 192, 104, 0.6);
+}
+
+.pokemon-card[data-main-type="flying"]:hover {
+    box-shadow: 0 0 15px 5px rgba(168, 144, 240, 0.6);
+}
+
+.pokemon-card[data-main-type="psychic"]:hover {
+    box-shadow: 0 0 15px 5px rgba(248, 88, 136, 0.6);
+}
+
+.pokemon-card[data-main-type="bug"]:hover {
+    box-shadow: 0 0 15px 5px rgba(168, 184, 32, 0.6);
+}
+
+.pokemon-card[data-main-type="rock"]:hover {
+    box-shadow: 0 0 15px 5px rgba(184, 160, 56, 0.6);
+}
+
+.pokemon-card[data-main-type="ghost"]:hover {
+    box-shadow: 0 0 15px 5px rgba(112, 88, 152, 0.6);
+}
+
+.pokemon-card[data-main-type="dragon"]:hover {
+    box-shadow: 0 0 15px 5px rgba(112, 56, 248, 0.6);
+}
+
+.pokemon-card[data-main-type="dark"]:hover {
+    box-shadow: 0 0 15px 5px rgba(112, 88, 72, 0.6);
+}
+
+.pokemon-card[data-main-type="steel"]:hover {
+    box-shadow: 0 0 15px 5px rgba(184, 184, 208, 0.6);
+}
+
+.pokemon-card[data-main-type="fairy"]:hover {
+    box-shadow: 0 0 15px 5px rgba(238, 153, 172, 0.6);
 }
