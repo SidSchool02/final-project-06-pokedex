@@ -244,6 +244,9 @@
 
 	form.addEventListener("submit", async (e) => {
 		e.preventDefault();
+		const submitBtn = form.querySelector('button[type="submit"]');
+    	submitBtn.classList.add('clicked');
+    	setTimeout(() => submitBtn.classList.remove('clicked'), 400);
 		const name = (input.value || "").trim();
 		if (!name) {
 			showError("Please enter a Pokémon name.");
