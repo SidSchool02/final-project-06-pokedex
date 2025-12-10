@@ -10,7 +10,7 @@ We all know what Pokemon is, and most of us might know what a Pokédex is. It is
 https://final-project-06-pokedex.onrender.com/
 The account and login features in the Team Builder don’t fully work on Render since it doesn’t support SQLite storage. To see everything working as intended, just follow the local setup steps and run the project on your computer. 
 
-### Rquirements and Local Instructions ###
+### Requirements and Local Instructions ###
 
  Please make sure you have Python installed
 ```
