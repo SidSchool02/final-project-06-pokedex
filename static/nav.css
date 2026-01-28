@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap');
 :root {
-	--color-neutral-100: oklch(0.141 0.005 285.823);
-	--color-neutral-200: oklch(0.21 0.006 285.885);
-	--color-accent: oklch(33.147% 0.13616 262.148);
-	--color-accent-hover: oklch(42.898% 0.24289 263.903);
+	--color-neutral-100: oklch(27.972% 0.11191 28.668);
+	--color-neutral-200: oklch(28.909% 0.11864 29.223);
+	--color-accent: oklch(61.627% 0.25083 29.039);
+	--color-accent-hover: oklch(47.85% 0.19489 29.054);
 	--color-text: oklch(0.985 0 0);
 	--rounding: .5rem;
 	--sidebar-toggler-size: 3rem;
@@ -92,7 +92,7 @@ body {
 	transition: color 0.2s;
 }
 .sidebar nav a:hover {
-	color: lightskyblue;
+	color: rgb(236, 91, 91);
 }
 
 .sidebar-toggler {
